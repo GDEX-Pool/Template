@@ -1,0 +1,415 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+.navbar{ 
+    background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+    opacity: 0.90;
+    width: 100%;  
+}
+.navbar img{
+      width: 200px;
+}
+.navbar-nav a{
+    color: white;
+    text-decoration: none;
+    text-align: end;
+    margin-left: 50px;
+}
+.nav-colored { 
+   background-color:#000;
+}
+.nav-transparent {
+    background-color:transparent;
+} 
+#prima li{
+    list-style: none;
+}
+main{
+ color: white;
+ background-color: white;
+}
+#dcfoto{
+    max-width: 100%;
+    margin-top: 100px;
+}
+#dc{
+    margin-top: 130px;
+    text-align: start;
+   
+}
+button{
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+  
+}
+#h2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: black;
+    text-align: center;
+    font-size: 2.5em;
+    text-shadow: 2px 2px grey;
+}
+.but{
+    background-image: linear-gradient(to right, rgb(4, 15, 63) 20%, rgb(7, 99, 204));
+    color: white;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+
+#prima{
+    background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+    max-width: 100%;
+}
+#secondo{
+    background-image: linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+    max-width: 100%;
+    margin-top: 50px;
+}
+#terzo{
+    margin-left: -112px;
+    background-image: linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+    margin-right: -112px;
+    padding-bottom: 100px;
+}
+#card{
+    text-align: center;
+    margin-top: 30px;
+    background-color: navy;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+hr{
+    margin-left: -13px;
+    margin-right: -13px;
+}
+#card1{
+    text-align: center;
+    margin-top: 30px;
+    background-color: navy;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+#card span{
+    color: #b6ff23;
+}
+#card1 span{
+    color: #b6ff23;
+}
+#card3{
+    text-align: center;
+    background-color: navy;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+#card3 button{
+    background-image: linear-gradient(to left, rgb(101, 10, 126) 20%, rgb(131, 37, 131));
+    color: white;
+    margin-top: 11px;
+    box-shadow: 0 0 32px 3px rgb(17, 17, 104 / 50%);
+}
+
+#img{
+    margin-top: 100px;
+    width: 100%;
+    height: auto;
+}
+#immag{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+#project{
+    margin: 0 auto;
+    margin-top: 180px;
+    color: white;
+    text-shadow: 1px 1px grey;
+   
+}
+.project{
+     background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+}
+#project h1{
+    margin-left: 50px;
+}
+#eco{
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 2px 2px rgb(104, 103, 103);
+    color: white;
+    
+}
+.imag1{
+    height: 10%;
+    width: 10%;   
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.cartone{
+    background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(7, 99, 204));
+    margin-bottom: -80px;
+}
+#carte{
+   margin: 0 auto;
+   color: white;
+  margin-left: 30px;
+
+}
+#carte1{
+    margin: 0 auto;
+    margin-top: 50px ;
+    color: black;
+    margin-left: 30px;
+  
+ }
+#carte img{
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#carte1 img{
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#carouselExampleIndicators{
+    margin-top: 70px;
+}
+#cont{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+#cont h1{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#cont1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#cont button{
+    margin-top: 13px;
+    background-image: linear-gradient(to left, rgb(101, 10, 126) 20%, rgb(131, 37, 131));
+    color: white;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+}
+#carte p{
+    margin-top: 80px;
+}
+#carte1 p{
+    margin-top: 70px;
+}
+#one{
+    margin: 0 auto;
+    height: 400px;
+    width: 350px;
+    background-color: rgb(57, 255, 20);
+    border: none;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+    color: white;
+    border-radius: 15px;
+}
+#two{
+    margin: 0 auto;
+    height: 400px;
+    width: 350px;
+    background-color: rgb(0, 51, 153);
+    border: none;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+    color: white;
+    border-radius: 15px;
+}
+#three{
+    margin: 0 auto;
+    height: 400px;
+    width: 350px;
+    background-color:rgb(245,11,134);
+    border: none;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+    color: white;
+    border-radius: 15px;
+}
+#four{
+    margin: 0 auto;
+    height: 400px;
+    width: 350px;
+    background-color:  rgb(255,111,0);
+    border: none;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+    color: white;
+    border-radius: 15px;
+}
+#par{
+    text-align: center;
+    margin-bottom: 70px;
+}
+#tit{
+    text-align: start;
+    margin-top: 120px;
+    padding-top: 70px;
+   
+}
+.cont{
+    background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(90, 9, 122));
+    margin-top: 60px;
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+.paper{
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-top: 70px;
+}
+#dropdownMenuButton{
+    margin-top: 90px;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    background-color: rgb(101, 10, 126);
+    border: 1px solid white;
+    border-radius: 15px;
+}
+#but{
+    background-color: rgb(101, 10, 126);
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+    margin-left: 70px;
+    margin-top: 35px;
+    padding: 8px;
+    margin-bottom: 30px;
+}
+
+address{  
+    color: black;
+    margin-top: 150px;
+}
+address h3{
+    margin-bottom: 50px;
+    color: rgb(159, 138, 192);
+}
+
+.contatti{
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 50px;
+    background-image:  linear-gradient(to left, rgb(90, 9, 122) 15%, rgb(2, 7, 29));
+    padding-left: 50px;
+    box-shadow: 0 0 32px 3px rgb(0 205 228 / 30%);
+    border-radius: 15px ;
+}
+.contatti strong{
+    margin-left: 10px;
+}
+.contatti p{
+    margin-left: 28px;
+}
+address p svg{
+    margin-left: -25px;
+}
+.phone{
+    margin-left: 6px;
+}
+.tel{
+    margin-top: 25px;
+}
+.email{
+    margin-top: 25px;
+}
+#email{
+    margin-left: 6px;
+}
+.telegram{
+    margin-top: 25px;
+}
+#telegram{
+    margin-left: 6px;
+}
+.paper{
+    width: 100%;
+}
+#scroll1{
+    width: 100%;
+}
+#scroll2{
+    width: 100%;
+}
+#scroll3{
+    width: 100%;
+}
+@media  screen and (min-width: 1100px){
+  .roadmap{
+    background-image: url(foto/roadimap.png);
+    height: 100%;
+    background-repeat: no-repeat;
+    
+  }
+}
+#roadmap{
+    margin-top: -60px;
+}
+#roadmap h2{
+    color: rgba(51, 8, 119, 0.699); 
+    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+#roadmap h4{
+    color: navy;
+    margin-bottom: 130px;
+    text-align: center;
+    height: 35px;
+   
+}
+#linea{
+    margin-right: 25px;
+}
+#linea1{
+    margin-right: 40px;
+    
+}
+#linea2{
+    margin-right: 30px;
+}
+.ds{
+    margin-right: -40px;
+}
+.des{
+    margin-right: -30px;
+}
+#linea3{
+    margin-right: 25px;
+}
+#linea4{
+    margin-right: 50px;
+}
+footer{
+    background-image:  linear-gradient(to right, rgb(2, 7, 29) 20%, rgb(90, 9, 122));
+}
+
+
+ 
+
